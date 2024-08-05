@@ -1,7 +1,7 @@
 # Pneumonia Disease Detection Using Advanced Neural Network
 
 ## Overview
-This project leverages advanced Convolutional Neural Networks (CNN) to detect pneumonia from chest X-ray images. The primary objective is to develop a system that assists medical professionals in diagnosing pneumonia accurately and efficiently. 
+This project leverages advanced Convolutional Neural Networks (CNN) to detect pneumonia from chest X-ray images. The primary objective is to develop an end to end system that assists medical professionals in diagnosing pneumonia accurately and efficiently. 
 
 ## Abstract
 The collaboration of machine learning with the medical field is expanding rapidly. Pneumonia, among other diseases, results in numerous deaths due to inadequate medical facilities and irregular checkups. This project utilizes supervised machine learning algorithms, particularly CNNs, to enhance the early detection and diagnosis of pneumonia from chest X-ray images.
